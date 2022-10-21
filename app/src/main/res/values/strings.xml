@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">MyAppProjectII</string>
+
+    <string-array name="drink">
+        <item>Bubble</item>
+        <item>Coffee</item>
+        <item>Milky</item>
+        <item>Juice</item>
+        <item>Ice Tea</item>
+    </string-array>
+    <string-array name="product">
+        <item>Bubble Tea</item>
+        <item>Hot Coffee</item>
+        <item>Milk Shake</item>
+        <item>Orange Juice</item>
+        <item>Ice Tea</item>
+    </string-array>
+    <string-array name="harga">
+        <item>15000</item>
+        <item>17000</item>
+        <item>20000</item>
+        <item>10000</item>
+        <item>7000</item>
+    </string-array>
+    <string-array name="description">
+        <item>Bubble tea merupakan minuman yang tengah naik daun karena rasanya yang manis, creamy berpadu dengan tekstur boba yang kenyal. Boba berbahan dasar tepung tapioka yaitu tepung dari singkong</item>
+        <item>Menurut sebuah studi pada tahun 2009 yang diterbitkan dalam jurnal science menemukan bahwa secangkir kopi panas di pagi hari sebenarnya dapat menempatkanmu dalam pola pikir yang lebih positif, serta tubuh mengalami kehangatan secara fisik, seperti dengan memegang secangkir kopi panas, dapat meningkatkan perasaan kehangatan dan senang pada pribadi yang meminumnya.</item>
+        <item>Milk Shake adalah minuman dingin dari campuran susu, es krim, dan sirop berperasa yang dikocok hingga berbusa. Selain dikocok dengan blender, milk shake bisa dibuat dengan memakai gelas pengocok bertutup. Di Britania Raya, milk shake hanya dibuat dari susu yang dicampur buah atau cokelat.</item>
+        <item>Sari buah jeruk adalah sari buah yang diperoleh dengan memeras atau menekan isi buah jeruk. Diminum di banyak tempat di dunia, sari buah jeruk biasanya menjadi bagian makan pagi atau sarapan. Pengekspor terbesar sari buah jeruk adalah Brasil, diikuti oleh Amerika Serikat, terutama negara bagian Florida</item>
+        <item>Iced Tea adalah teh yang didinginkan dengan es batu. Iced Tea sering kali ditambahkan rasa seperti melati, dan buah-buahan seperti limun, ceri, dan arbei, atau susu. Iced Tea adalah minuman yang sering diminum saat siang hari karena suhu udara yang panas. Di warteg, iced tea sering diminum selain air dingin.</item>
+    </string-array>
+</resources>
